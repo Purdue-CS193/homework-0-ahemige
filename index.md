@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+
+### This is a markdown
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -18,13 +22,33 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+- I want to get
+- Chickfilla 
+- today
+
+3. Numbered
+4. List
+
+1. d
+2. a
+3. a
+4. a
+5. w
+6. d
+7. f
+8. g
 
 **Bold** and _Italic_ and `Code` text
 
+**BOLD** _fedeeeee_ `CODE`
+
+
 [Link](url) and ![Image](src)
 ```
+
+[Link](https://www.google.com/)
+
+![Image](spongebob.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
